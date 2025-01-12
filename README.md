@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rismaramadlan2501
-- 👀 I’m Student in RSUI
+- 👀 I’m Student at RSUI
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
